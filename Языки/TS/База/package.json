@@ -1,0 +1,18 @@
+{
+  "name": "namr",
+  "version": "1.0.0",
+  "description": "gklf",
+  "main": "e",
+  "devDependencies": {
+    "ts": "^0.2.2",
+    "typescript": "^4.5.4"
+  },
+  "scripts": {
+    "test": "wre"
+  },
+  "keywords": [
+    "ts"
+  ],
+  "author": "lev",
+  "license": "ISC"
+}

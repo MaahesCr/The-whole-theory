@@ -1,0 +1,15 @@
+%message-shared {
+    border: 1px solid #ccc;
+    padding: 10px;
+    color: #333;
+  }
+
+  .error{
+      @extend %message-shared;
+      border-color: green;
+  }
+
+  .success {
+    @extend %message-shared;
+    border-color: green;
+  }
